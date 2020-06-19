@@ -21,4 +21,4 @@ function destructivelyAddElementToEndOfArray (array,element){
 }
 
 function accessElementInArray = [access, index]
-console.log(accessElementInArray[index];)
+return array[index]
